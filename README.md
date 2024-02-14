@@ -61,7 +61,7 @@ Machine Learning enables computers to solve problems and make predictions or dec
 5. Evaluate the Model
 6. Parameter Tuning
 7. Make Predictions
-8. Improve
+8. ML OPs
 
 ### 1. Define the Problem
 
@@ -77,7 +77,7 @@ Machine Learning enables computers to solve problems and make predictions or dec
 
 ### 7. Make Predictions
 
-### 8. Improve
+### 8. ML OPs
 
 ---------------------------------------------
 
