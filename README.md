@@ -81,7 +81,11 @@ Machine Learning enables computers to solve problems and make predictions or dec
 
 ---------------------------------------------
 
-## IV. Applying Machine Learning
+## IV. Major Machine Learning application
+
+---------------------------------------------
+
+## V. Applying Machine Learning
 
 ### 1. Supervised: Classification
 Techniques for categorizing items into a discrete set of categories.
@@ -103,5 +107,3 @@ Combining labeled and unlabeled data to improve learning accuracy.
 
 ### 7. Reinforcement
 Learning how to act or make decisions by trying out actions and seeing the results.
-
----------------------------------------------
