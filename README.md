@@ -63,19 +63,19 @@ Machine Learning enables computers to solve problems and make predictions or dec
 7. Make Predictions
 8. Improve
 
-### 1. Define the Problem
+### 1. Define the Problem
 
 ### 2. Prepare the Data
 
-### 3. Choose a Model
+### 3. Choose a Model
 
 ### 4. Train the Model
 
-### 5. Evaluate the Model
+### 5. Evaluate the Model
 
 ### 6. Parameter Tuning
 
-### 7. Make Predictions
+### 7. Make Predictions
 
 ### 8. Improve
 
