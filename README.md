@@ -9,15 +9,18 @@
 
 ### 1. What's Machine Learning
 Machine Learning is a field of artificial intelligence (AI) that focuses on building systems that learn from and make decisions based on data.
+---------------------------------------------
 
 ### 2. Why using Machine Learning?
 Machine Learning enables computers to solve problems and make predictions or decisions without being explicitly programmed to perform the task.
+---------------------------------------------
 
 ### 3. ML Categories
 - **a. Supervised Learning**: The algorithm learns from labeled training data, and makes predictions based on that.
 - **b. Unsupervised Learning**: The algorithm learns patterns from unlabeled data without guidance.
 - **c. Semi-Supervised Learning**: Combines a small amount of labeled data with a large amount of unlabeled data during training.
 - **d. Reinforcement Learning**: Algorithms learn to perform an action from experience by maximizing some notion of cumulative reward.
+---------------------------------------------
 
 ## II. Machine Learning Tools
 
@@ -26,17 +29,21 @@ Machine Learning enables computers to solve problems and make predictions or dec
 - PyTorch
 - Scikit-learn
 - Keras
+---------------------------------------------
 
 ### 2. ML Libraries in R
 - Caret
 - mlr
 - randomForest
 - e1071
+----------------------------------------------
 
 ### 3. ML Libraries in Other Tools
 - Weka (Java)
 - MATLAB Machine Learning Toolbox
 - Microsoft Azure Machine Learning Studio
+
+---------------------------------------------
 
 ## III. Machine Learning Steps
 
@@ -47,6 +54,7 @@ Machine Learning enables computers to solve problems and make predictions or dec
 5. Evaluate the Model
 6. Parameter Tuning
 7. Make Predictions
+---------------------------------------------
 
 ## IV. Applying Machine Learning
 
