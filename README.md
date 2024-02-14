@@ -1,6 +1,6 @@
 ---------------------------------------------
 
-# MachineLearning
+# Machine Learning
  Everything about Machine Learning (ML)
 
 ---------------------------------------------
