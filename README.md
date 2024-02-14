@@ -5,8 +5,6 @@
 
 ---------------------------------------------
 
-# Machine Learning Repository
-
 ## I. Machine Learning
 
 ### 1. What's Machine Learning
