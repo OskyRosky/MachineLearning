@@ -8,11 +8,15 @@
 ## I. Machine Learning
 
 ### 1. What's Machine Learning
+
 Machine Learning is a field of artificial intelligence (AI) that focuses on building systems that learn from and make decisions based on data.
+
 ---------------------------------------------
 
 ### 2. Why using Machine Learning?
+
 Machine Learning enables computers to solve problems and make predictions or decisions without being explicitly programmed to perform the task.
+
 ---------------------------------------------
 
 ### 3. ML Categories
@@ -20,6 +24,7 @@ Machine Learning enables computers to solve problems and make predictions or dec
 - **b. Unsupervised Learning**: The algorithm learns patterns from unlabeled data without guidance.
 - **c. Semi-Supervised Learning**: Combines a small amount of labeled data with a large amount of unlabeled data during training.
 - **d. Reinforcement Learning**: Algorithms learn to perform an action from experience by maximizing some notion of cumulative reward.
+
 ---------------------------------------------
 
 ## II. Machine Learning Tools
@@ -29,6 +34,7 @@ Machine Learning enables computers to solve problems and make predictions or dec
 - PyTorch
 - Scikit-learn
 - Keras
+
 ---------------------------------------------
 
 ### 2. ML Libraries in R
@@ -36,6 +42,7 @@ Machine Learning enables computers to solve problems and make predictions or dec
 - mlr
 - randomForest
 - e1071
+
 ----------------------------------------------
 
 ### 3. ML Libraries in Other Tools
@@ -54,6 +61,17 @@ Machine Learning enables computers to solve problems and make predictions or dec
 5. Evaluate the Model
 6. Parameter Tuning
 7. Make Predictions
+8. Improve
+
+### 1. Define the Problem
+### 2. Prepare the Data
+### 3. Choose a Model
+### 4. Train the Model
+### 5. Evaluate the Model
+### 6. Parameter Tuning
+### 7. Make Predictions
+### 8. Improve
+
 ---------------------------------------------
 
 ## IV. Applying Machine Learning
@@ -78,3 +96,5 @@ Combining labeled and unlabeled data to improve learning accuracy.
 
 ### 7. Reinforcement
 Learning how to act or make decisions by trying out actions and seeing the results.
+
+---------------------------------------------
