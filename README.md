@@ -99,16 +99,7 @@ innovation in many fields.
 - **Output expected**: Predictions for the labels of new, unseen data.
 - **Algorithms**:
 
-- Linear Regression
-- Logistic Regression
-- Support Vector Machines (SVM)
-- K-Nearest Neighbors (KNN)
-- Decision Trees
-- Random Forest
-- Gradient Boosting Machines (GBM)
-- AdaBoost
-- Neural Networks
-- Naive Bayes
+Linear Regression, Logistic Regression, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Decision Trees, Random Forest, Gradient Boosting Machines (GBM), AdaBoost, Neural Networks, Naive Bayes, etc..
 
 **b. Unsupervised Learning**
 
@@ -117,16 +108,8 @@ innovation in many fields.
 - **Output expected**: Clusters of data points, dimensions that summarize data, or the association of data points with their latent features.
 - **Algorithms**:
 
-- K-Means Clustering
-- Hierarchical Clustering
-- Principal Component Analysis (PCA)
-- Independent Component Analysis (ICA)
-- Gaussian Mixture Models (GMM)
-- DBSCAN
-- Anomaly Detection
-- t-Distributed Stochastic Neighbor Embedding (t-SNE)
-- Autoencoders
-- Apriori algorithm
+K-Means Clustering, Hierarchical Clustering, Principal Component Analysis (PCA), Independent Component Analysis (ICA), Gaussian Mixture Models (GMM), DBSCAN, Anomaly Detection, t-Distributed Stochastic Neighbor Embedding (t-SNE),
+Autoencoders, Apriori algorithm
 
 **c. Semi-Supervised Learning**: Combines a small amount of labeled data with a large amount of unlabeled data during training.
 
@@ -135,16 +118,8 @@ innovation in many fields.
 - **Output expected**: Predictions for labels as in supervised learning but with the model also able to extract features as in unsupervised learning.
 - **Algorithms**:
 
-Self-training
-Co-training
-Semi-Supervised Support Vector Machines (S3VM)
-Label Propagation and Label Spreading
-Semi-supervised Gaussian Processes
-Graph-based Semi-Supervised Learning
-Semi-Supervised Neural Networks
-Generative Models
-Multi-view Learning
-Transductive Support Vector Machines
+Self-training, Co-training, Semi-Supervised Support Vector Machines (S3VM), Label Propagation and Label Spreading, Semi-supervised Gaussian Processes, Graph-based Semi-Supervised Learning, Semi-Supervised Neural Networks
+Generative Models, Multi-view Learning, Transductive Support Vector Machines
 
 **d. Reinforcement Learning**: Algorithms learn to perform an action from experience by maximizing some notion of cumulative reward.
 
@@ -153,18 +128,11 @@ Transductive Support Vector Machines
 - **Output expected**: A policy that tells an agent what action to take under certain circumstances.
 - **Algorithms**:
 
-- Q-Learning
-- Deep Q Network (DQN)
-- Policy Gradients
-- Actor-Critic Methods
-- Monte Carlo Tree Search (MCTS)
-- Temporal Difference (TD) Learning
-- SARSA (State-Action-Reward-State-Action)
-- Proximal Policy Optimization (PPO)
-- Trust Region Policy Optimization (TRPO)
-- Asynchronous Advantage Actor-Critic (A3C)
-- Each of these categories can be applied to different kinds of problems and datasets. The choice of which category and algorithm to use often depends on the
-  specific problem, the nature of the data available, and the kind of results that are needed.
+Q-Learning, Deep Q Network (DQN), Policy Gradients, Actor-Critic Methods, Monte Carlo Tree Search (MCTS), Temporal Difference (TD) Learning, SARSA (State-Action-Reward-State-Action), 
+Proximal Policy Optimization (PPO), Trust Region Policy Optimization (TRPO), Asynchronous Advantage Actor-Critic (A3C)
+
+Each of these categories can be applied to different kinds of problems and datasets. The choice of which category and algorithm to use often depends on the
+specific problem, the nature of the data available, and the kind of results that are needed.
 
 ---------------------------------------------
 
