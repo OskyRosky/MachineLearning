@@ -313,6 +313,7 @@ or cloud-based solutions, and offer various levels of abstraction, from low-leve
 
 ## III. Machine Learning Steps
 
+0. Understand the business
 1. Define the Problem
 2. Prepare the Data
 3. Choose a Model
@@ -321,6 +322,8 @@ or cloud-based solutions, and offer various levels of abstraction, from low-leve
 6. Parameter Tuning
 7. Make Predictions
 8. ML OPs
+
+### 0. Define the Problem
 
 ### 1. Define the Problem
 
