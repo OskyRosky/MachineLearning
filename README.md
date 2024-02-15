@@ -1,6 +1,6 @@
 ---------------------------------------------
  
-# Machine Learning :computer:
+# :computer: Machine Learning :computer:
  
  Everything about Machine Learning (ML)
  
