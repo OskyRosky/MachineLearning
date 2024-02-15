@@ -92,12 +92,12 @@ innovation in many fields.
 
 ### 3. ML Categories
 
-- **a. Supervised Learning**
+**a. Supervised Learning**
 
-**What it is**: Supervised learning involves training a model on a labeled dataset, which means that each training example is paired with an output label. The model learns to make predictions based on this data.
-**Type of data**: Labeled data (each example has a known output/answer).
-**Output expected**: Predictions for the labels of new, unseen data.
-**Algorithms**:
+- **What it is**: Supervised learning involves training a model on a labeled dataset, which means that each training example is paired with an output label. The model learns to make predictions based on this data.
+- **Type of data**: Labeled data (each example has a known output/answer).
+- **Output expected**: Predictions for the labels of new, unseen data.
+- **Algorithms**:
 
 - Linear Regression
 - Logistic Regression
@@ -110,12 +110,12 @@ innovation in many fields.
 - Neural Networks
 - Naive Bayes
 
-- **b. Unsupervised Learning**
+**b. Unsupervised Learning**
 
-**What it is**: Unsupervised learning uses machine learning algorithms to analyze and cluster unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention.
-**Type of data**: Unlabeled data (no known output/answer).
-**Output expected**: Clusters of data points, dimensions that summarize data, or the association of data points with their latent features.
-**Algorithms**:
+- **What it is**: Unsupervised learning uses machine learning algorithms to analyze and cluster unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention.
+- **Type of data**: Unlabeled data (no known output/answer).
+- **Output expected**: Clusters of data points, dimensions that summarize data, or the association of data points with their latent features.
+- **Algorithms**:
 
 - K-Means Clustering
 - Hierarchical Clustering
@@ -128,12 +128,13 @@ innovation in many fields.
 - Autoencoders
 - Apriori algorithm
 
-- **c. Semi-Supervised Learning**: Combines a small amount of labeled data with a large amount of unlabeled data during training.
+**c. Semi-Supervised Learning**: Combines a small amount of labeled data with a large amount of unlabeled data during training.
 
-**What it is**: Semi-supervised learning falls between supervised learning and unsupervised learning. It uses a small amount of labeled data along with a large amount of unlabeled data to train models.
-**Type of data**: Both labeled and unlabeled data.
-**Output expected**: Predictions for labels as in supervised learning but with the model also able to extract features as in unsupervised learning.
-**Algorithms**:
+- **What it is**: Semi-supervised learning falls between supervised learning and unsupervised learning. It uses a small amount of labeled data along with a large amount of unlabeled data to train models.
+- **Type of data**: Both labeled and unlabeled data.
+- **Output expected**: Predictions for labels as in supervised learning but with the model also able to extract features as in unsupervised learning.
+- **Algorithms**:
+
 Self-training
 Co-training
 Semi-Supervised Support Vector Machines (S3VM)
@@ -145,12 +146,12 @@ Generative Models
 Multi-view Learning
 Transductive Support Vector Machines
 
-- **d. Reinforcement Learning**: Algorithms learn to perform an action from experience by maximizing some notion of cumulative reward.
+**d. Reinforcement Learning**: Algorithms learn to perform an action from experience by maximizing some notion of cumulative reward.
 
-**What it is**: Reinforcement learning is an area of machine learning concerned with how agents ought to take actions in an environment to maximize some notion of cumulative reward.
-**Type of data**: Data obtained from interactions with an environment. Rewards and penalties as signals for positive and negative behavior.
-**Output expected**: A policy that tells an agent what action to take under certain circumstances.
-**Algorithms**:
+- **What it is**: Reinforcement learning is an area of machine learning concerned with how agents ought to take actions in an environment to maximize some notion of cumulative reward.
+- **Type of data**: Data obtained from interactions with an environment. Rewards and penalties as signals for positive and negative behavior.
+- **Output expected**: A policy that tells an agent what action to take under certain circumstances.
+- **Algorithms**:
 
 - Q-Learning
 - Deep Q Network (DQN)
