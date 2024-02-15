@@ -111,7 +111,7 @@ Linear Regression, Logistic Regression, Support Vector Machines (SVM), K-Nearest
 K-Means Clustering, Hierarchical Clustering, Principal Component Analysis (PCA), Independent Component Analysis (ICA), Gaussian Mixture Models (GMM), DBSCAN, Anomaly Detection, t-Distributed Stochastic Neighbor Embedding (t-SNE),
 Autoencoders, Apriori algorithm
 
-**c. Semi-Supervised Learning**: Combines a small amount of labeled data with a large amount of unlabeled data during training.
+**c. Semi-Supervised Learning**
 
 - **What it is**: Semi-supervised learning falls between supervised learning and unsupervised learning. It uses a small amount of labeled data along with a large amount of unlabeled data to train models.
 - **Type of data**: Both labeled and unlabeled data.
@@ -121,7 +121,7 @@ Autoencoders, Apriori algorithm
 Self-training, Co-training, Semi-Supervised Support Vector Machines (S3VM), Label Propagation and Label Spreading, Semi-supervised Gaussian Processes, Graph-based Semi-Supervised Learning, Semi-Supervised Neural Networks
 Generative Models, Multi-view Learning, Transductive Support Vector Machines
 
-**d. Reinforcement Learning**: Algorithms learn to perform an action from experience by maximizing some notion of cumulative reward.
+**d. Reinforcement Learning**
 
 - **What it is**: Reinforcement learning is an area of machine learning concerned with how agents ought to take actions in an environment to maximize some notion of cumulative reward.
 - **Type of data**: Data obtained from interactions with an environment. Rewards and penalties as signals for positive and negative behavior.
