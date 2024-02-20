@@ -332,13 +332,21 @@ Finally, **"8. ML Ops"** encompasses the operational aspects, including deployin
 This cycle is iterative and may require revisiting earlier steps based on insights gained in later stages, ensuring continuous improvement and alignment with business needs.
 
 **0. Understand the business**
+
 **1. Define the Problem**
+
 **2. Prepare the Data**
+
 **3. Choose a Model**
+
 **4. Train the Model**
+
 **5. Evaluate the Model**
+
 **6. Parameter Tuning**
+
 **7. Make Predictions**
+
 **8. ML OPs**
 
 Let's start with the explanation of each stage.
