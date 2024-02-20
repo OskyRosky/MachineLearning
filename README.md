@@ -665,11 +665,9 @@ Imagine an e-commerce platform that uses an ML model to personalize product reco
 
 ---------------------------------------------
 
-## IV. Major Machine Learning application
+## IV. Machine Learning applications
 
-
-
-## V. Applying Machine Learning
+---------------------------------------------
 
 ### 0. The Fundamentals of ML
 A generic case with everything required in an ML cycle
