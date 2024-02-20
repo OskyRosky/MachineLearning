@@ -3,10 +3,14 @@
 # :computer: Machine Learning :computer:
  
  Everything about Machine Learning (ML)
+
+---------------------------------------------
  
 ---------------------------------------------
 
 ## I. Machine Learning
+
+---------------------------------------------
 
 ### 1. What's Machine Learning
 
@@ -137,6 +141,8 @@ specific problem, the nature of the data available, and the kind of results that
 ---------------------------------------------
 
 ## II. Machine Learning Tools
+
+---------------------------------------------
 
 ### 1. ML Libraries in Python
 
@@ -312,6 +318,8 @@ or cloud-based solutions, and offer various levels of abstraction, from low-leve
 ---------------------------------------------
 
 ## III. Machine Learning Steps
+
+---------------------------------------------
 
 The Machine Learning (ML) cycle is a comprehensive process that guides the development and deployment of ML models. It begins with **"0. Understand the Business"**, where we delve into the business context, stakeholders' needs, and operational constraints to ensure the ML project aligns with overarching business goals. **"1. Define the Problem"** involves specifying the ML task, be it prediction, classification, or another form of analysis, based on the business understanding.
 
@@ -659,9 +667,12 @@ Imagine an e-commerce platform that uses an ML model to personalize product reco
 
 ## IV. Major Machine Learning application
 
----------------------------------------------
+
 
 ## V. Applying Machine Learning
+
+### 0. The Fundamentals of ML
+A generic case with everything required in an ML cycle
 
 ### 1. Supervised: Classification
 Techniques for categorizing items into a discrete set of categories.
@@ -683,3 +694,5 @@ Combining labeled and unlabeled data to improve learning accuracy.
 
 ### 7. Reinforcement
 Learning how to act or make decisions by trying out actions and seeing the results.
+
+---------------------------------------------
