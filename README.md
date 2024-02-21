@@ -1,11 +1,11 @@
 ---------------------------------------------
 **Repository summary**
 
-1.  Intro 🧳
+1.  **Intro** 🧳
 
 Welcome to the "All About Machine Learning" repository! This project aims to explore the vast field of Machine Learning (ML), covering its fundamental concepts, applications, and the latest advancements. Whether you're a beginner eager to learn the basics or an experienced practitioner looking to dive deeper into complex algorithms, this repository offers valuable resources, including Python code examples, to enhance your understanding and skills in ML.
 
-2.  Tech Stack 🤖
+2.  **Tech Stack** 🤖
 
 Our project leverages a robust tech stack optimized for Machine Learning development:
 
@@ -13,7 +13,7 @@ Programming Language: Python 3.x, the go-to choice for ML projects due to its re
 Key Libraries: We utilize powerful ML libraries such as Scikit-learn for classical machine learning algorithms, TensorFlow and PyTorch for deep learning, and Pandas and NumPy for data manipulation.
 Development Tools: Jupyter Notebooks serve as our primary development environment, facilitating interactive coding and visualization.
 
-3.  Features 🤳🏽
+3.  **Features** 🤳🏽
 
 The repository includes:
 
@@ -22,7 +22,7 @@ Python code examples for various ML algorithms including supervised, unsupervise
 Case studies demonstrating real-world applications of ML techniques.
 Performance evaluation and comparison of different ML models.
 
-4.  Process 👣
+4.  **Process** 👣
 
 Our ML project follows a structured process:
 
@@ -34,7 +34,7 @@ Evaluation: Assessing model performance with appropriate metrics.
 Optimization: Fine-tuning models to improve outcomes.
 Deployment: Integrating models into applications for real-world use.
 
-5.  Learning 💡
+5.  **Learning** 💡
 
 This section is dedicated to learning resources:
 
@@ -42,7 +42,7 @@ Tutorials and documentation for beginners to get started with ML.
 Advanced topics for seasoned ML professionals to deepen their expertise.
 Recommendations for online courses, books, and community forums.
 
-6.  Improvement 🔩
+6.  **Improvement** 🔩
 
 We continuously seek to improve our repository by:
 
@@ -50,7 +50,7 @@ Updating content with the latest ML research and trends.
 Enhancing existing code examples for clarity and efficiency.
 Expanding our collection of ML topics and applications.
 
-7.  Running the Project ⚙️
+7.  **Running the Project** ⚙️
 
 To contribute to the project:
 
@@ -60,7 +60,7 @@ Commit your changes (git commit -m 'Add some YourAmazingFeature').
 Push to the branch (git push origin feature/YourAmazingFeature).
 Open a Pull Request.
 
-8.  More 🙌🏽
+8.  **More** 🙌🏽
 
 In addition to the core content, this repository offers:
 
