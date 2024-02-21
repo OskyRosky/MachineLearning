@@ -94,6 +94,8 @@ A section for FAQs to help troubleshoot common issues encountered during ML proj
 
 Machine Learning is a field of artificial intelligence (AI) that focuses on building systems that learn from and make decisions based on data.
 
+![ml3](/resources/ml3.png)
+
 #### A. Definition and Core Concept
 
 Machine Learning is a subset of artificial intelligence that enables systems to learn from data, identify patterns, and make decisions with minimal human intervention. 
