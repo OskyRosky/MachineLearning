@@ -3,10 +3,20 @@
 
 1. Intro
 
-
+Repository on all aspects of ML with example codes in Python.
 
 2. Tech Stack
 
+For this project, we'll use a combination of tools and technologies focused on data analysis and implementing Machine Learning algorithms:
+
+Programming Language: Python 3.x for its widespread adoption in the data science community and its powerful libraries.
+Key Libraries:
+NumPy and Pandas for data manipulation and analysis.
+Matplotlib and Seaborn for data visualization.
+Scikit-learn for Machine Learning algorithms and data preprocessing.
+TensorFlow and PyTorch for deep learning.
+Development Environment: Jupyter Notebook for interactive experimentation and prototyping.
+Version Control: Git, with GitHub as the platform for hosting the repository and facilitating collaboration.
 
 3. Features
 
@@ -22,6 +32,13 @@
 
 7. Running the Project
 
+I'm open to collaborations! If you're interested in contributing to any of my projects, please:
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
 
 8. More
 
