@@ -32,6 +32,14 @@
  
  Everything about Machine Learning (ML)
 
+ <table>
+  <tr>
+    <td><img src="/resources/ml1.png" alt="Logoml1" style="width: 150px;"/></td>
+    <td><img src="/resources/ml2.png" alt="Logoml2" style="width: 150px;"/></td>
+  </tr>
+</table>
+
+
 ---------------------------------------------
  
 ---------------------------------------------
