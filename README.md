@@ -135,6 +135,8 @@ problems in healthcare, environmental conservation, finance, and more. Its abili
 Machine learning is a powerful tool for addressing complex problems across various domains. 
 Here are several reasons why using machine learning can be advantageous
 
+![ml3](/resources/ml4.png)
+
 #### A. Handling Vast Amounts of Data
 
 Machine learning algorithms are designed to improve as they are exposed to more data. In the era of big data, where traditional data processing techniques are insufficient, 
