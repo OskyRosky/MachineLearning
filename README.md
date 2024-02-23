@@ -611,7 +611,7 @@ The ultimate goal is to select a model that not only performs well but also alig
 
 Training the model is a pivotal stage in the machine learning cycle where the chosen algorithm learns from the data. Here are some key points to consider during this stage:
 
-![ml11](/resources/ml11.webp)
+![ml11](/resources/ml11.png)
 
 **- 1. Setting Up the Training Environment**
 
