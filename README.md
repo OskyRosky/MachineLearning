@@ -482,6 +482,8 @@ Finally, ensuring a comprehensive understanding of the business context that inf
 
 Defining the problem is a critical stage in a machine learning (ML) analysis, as it sets the foundation for all subsequent steps. Here are some ideas and examples to illustrate this stage:
 
+![ml8](/resources/ml8.png)
+
 **- 1.Clarification of Objectives**
 
 The first step in defining the problem is to clarify what you aim to achieve with the ML project. This involves converting broad business objectives into specific ML tasks. For example, if the business goal is to reduce customer churn, 
@@ -502,8 +504,6 @@ data on user interactions with products, such as views, clicks, purchases, and r
 Part of defining the problem is deciding how you will measure the success of your ML model. The choice of evaluation metrics should reflect the business impact of the model's predictions. For a fraud detection system, for example, you might prioritize precision
 (to minimize false positives that could inconvenience users) or recall (to minimize false negatives that could let fraudulent transactions slip through), depending on the business's tolerance for risk and the cost implications of each type of error.
 
-![ml8](/resources/ml8.png)
-
 
 By clearly defining the ML problem, you set a clear direction for the project, ensuring that all efforts are focused on achieving a specific, measurable goal that aligns with business objectives.
 
@@ -513,7 +513,7 @@ By clearly defining the ML problem, you set a clear direction for the project, e
 
 Data preparation is crucial in a machine learning workflow, as the quality and format of your data directly affect the performance of your ML models. This stage involves several key processes:
 
-![ml9](/resources/ml9.png)
+![ml9](/resources/ml9.jpeg)
 
 **- 1.Data Collection and Integration**
 
