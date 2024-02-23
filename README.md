@@ -436,6 +436,8 @@ This cycle is iterative and may require revisiting earlier steps based on insigh
 
 **8. ML OPs**
 
+![ml7](/resources/ml7.png)
+
 Let's start with the explanation of each stage.
 
 ---------------------------------------------
