@@ -228,7 +228,8 @@ specific problem, the nature of the data available, and the kind of results that
 
 ---------------------------------------------
 
-### 1. ML Libraries in Python
+### 1. ML Libraries in Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 **- 1. Scikit-learn** 
 
@@ -279,7 +280,7 @@ It's worth noting that the landscape of machine learning libraries in Python is 
 
 ---------------------------------------------
 
-### 2. ML Libraries in R
+### 2. ML Libraries in R ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 R is a language that's very popular among statisticians and data miners for developing statistical software and data analysis. 
 Here are ten of the most widely used R libraries for machine learning, along with their primary functions and typical data applications:
