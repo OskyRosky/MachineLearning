@@ -513,6 +513,8 @@ By clearly defining the ML problem, you set a clear direction for the project, e
 
 Data preparation is crucial in a machine learning workflow, as the quality and format of your data directly affect the performance of your ML models. This stage involves several key processes:
 
+![ml9](/resources/ml9.png)
+
 **- 1.Data Collection and Integration**
 
 Gathering data from various sources is the initial step in preparing your data. This might involve combining data from internal databases, external APIs, or public datasets to create a comprehensive dataset. For instance, in a predictive maintenance scenario for industrial machines, 
