@@ -555,6 +555,8 @@ This comprehensive approach ensures that the data is in the best possible state 
 
 Choosing the right model is a pivotal stage in a machine learning project, as the model's suitability directly impacts the effectiveness and accuracy of the solution. Here are key considerations and examples for this stage:
 
+![ml10](/resources/ml10.jpg)
+
 **- 1.Understand the Problem Type**
 
 The nature of the problem largely dictates the type of model you should choose. Common problem types include classification (categorical output), regression (continuous output), clustering (grouping similar entities),
@@ -608,6 +610,8 @@ The ultimate goal is to select a model that not only performs well but also alig
 ### 4. Train the Model
 
 Training the model is a pivotal stage in the machine learning cycle where the chosen algorithm learns from the data. Here are some key points to consider during this stage:
+
+![ml11](/resources/ml11.png)
 
 **- 1. Setting Up the Training Environment**
 
