@@ -502,6 +502,9 @@ data on user interactions with products, such as views, clicks, purchases, and r
 Part of defining the problem is deciding how you will measure the success of your ML model. The choice of evaluation metrics should reflect the business impact of the model's predictions. For a fraud detection system, for example, you might prioritize precision
 (to minimize false positives that could inconvenience users) or recall (to minimize false negatives that could let fraudulent transactions slip through), depending on the business's tolerance for risk and the cost implications of each type of error.
 
+![ml8](/resources/ml8.png)
+
+
 By clearly defining the ML problem, you set a clear direction for the project, ensuring that all efforts are focused on achieving a specific, measurable goal that aligns with business objectives.
 
 ---------------------------------------------
