@@ -228,6 +228,8 @@ specific problem, the nature of the data available, and the kind of results that
 
 ---------------------------------------------
 
+![ml6](/resources/ml6.png)
+
 ### 1. ML Libraries in Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
