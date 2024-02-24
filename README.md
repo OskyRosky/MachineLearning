@@ -783,6 +783,7 @@ Suppose you have a model trained to predict the likelihood of a particular disea
 
 ### 8. ML OPs
 
+![ml15](/resources/ml15.png)
 
 The **ML Ops** stage, short for Machine Learning Operations, is crucial for the deployment, monitoring, and maintenance of machine learning models in production environments. This stage ensures that the ML models continue to perform well and remain relevant as they are integrated into real-world applications. 
 Here are key considerations for the ML Ops stage:
