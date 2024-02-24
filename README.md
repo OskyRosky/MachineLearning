@@ -416,6 +416,8 @@ The Machine Learning (ML) cycle is a comprehensive process that guides the devel
 
 Finally, **"8. ML Ops"** encompasses the operational aspects, including deploying the model into production, monitoring its performance, and updating it as necessary to maintain or improve its effectiveness over time.
 
+![ml7](/resources/ml7.png)
+
 This cycle is iterative and may require revisiting earlier steps based on insights gained in later stages, ensuring continuous improvement and alignment with business needs.
 
 **0. Understand the business**
@@ -435,8 +437,6 @@ This cycle is iterative and may require revisiting earlier steps based on insigh
 **7. Make Predictions**
 
 **8. ML OPs**
-
-![ml7](/resources/ml7.png)
 
 Let's start with the explanation of each stage.
 
