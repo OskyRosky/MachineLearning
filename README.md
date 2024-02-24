@@ -698,6 +698,9 @@ This stage is crucial for ensuring that the model is both accurate and robust, p
 
 
 The **Parameter Tuning** stage in the Machine Learning (ML) cycle is critical for optimizing model performance. This stage involves systematically searching for the best values of hyperparameters, which are the parameters not learned from data but set before the training process begins. 
+
+![ml13](/resources/ml13.png)
+
 Here are some key points regarding parameter tuning
 
 **- 1.Improvement of Model Accuracy**
