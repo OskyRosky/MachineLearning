@@ -783,8 +783,10 @@ Suppose you have a model trained to predict the likelihood of a particular disea
 
 ### 8. ML OPs
 
-
 The **ML Ops** stage, short for Machine Learning Operations, is crucial for the deployment, monitoring, and maintenance of machine learning models in production environments. This stage ensures that the ML models continue to perform well and remain relevant as they are integrated into real-world applications. 
+
+![ml15](/resources/ml15.png)
+
 Here are key considerations for the ML Ops stage:
 
 **- 1. Deployment of the Model**
@@ -821,8 +823,14 @@ Imagine an e-commerce platform that uses an ML model to personalize product reco
 
 ---------------------------------------------
 
+In this section you can find some applications that have been developed using Machine Learning.
+
+![ml16](/resources/ml16.png)
+
+
 ### 0. The Fundamentals of ML
-A generic case with everything required in an ML cycle
+
+A generic case with everything required in an ML cycle.
 
 ### 1. Supervised: Classification
 Techniques for categorizing items into a discrete set of categories.
