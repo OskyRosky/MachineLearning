@@ -446,6 +446,8 @@ Let's start with the explanation of each stage.
 
 Why it's so important to understand the domain or business?
 
+![ml7_5](/resources/ml7_5.png)
+
 **- Grasping Business Culture and Decision-Making Processes** 
 
 Understanding the business includes knowing its culture and how decisions are made. This insight is crucial for effectively communicating ML insights and ensuring that the solutions developed are in sync 
