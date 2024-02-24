@@ -647,6 +647,9 @@ By carefully managing these aspects of the training stage, you can enhance the m
 ### 5. Evaluate the Model
 
 Evaluating the model is a critical stage in the machine learning cycle where the performance of the trained model is assessed. This evaluation can differ based on whether the task is a prediction (regression) or classification. 
+
+![ml12](/resources/ml12.jpeg)
+
 Here are some key considerations for this stage:
 
 **- For Prediction (Regression) Tasks**
