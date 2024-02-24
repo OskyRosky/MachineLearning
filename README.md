@@ -746,6 +746,9 @@ It's a crucial step in the ML cycle that can significantly enhance model perform
 ### 7. Make Predictions
 
 **Make Predictions** stage is where the trained and tuned machine learning model is finally put to use on new, unseen data to make inferences or predictions. This stage is crucial for realizing the practical value of the model. 
+
+![ml14](/resources/ml14.png)
+
 Here are key points to consider during this stage, along with examples:
 
 **- 1.Application of the Trained Model**
