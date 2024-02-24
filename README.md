@@ -829,7 +829,7 @@ In this section you can find some applications that have been developed using Ma
 
 ### 0. The Fundamentals of ML
 
-A generic case with everything required in an ML cycle. [Fundamentals](https://github.com/OskyRosky/MachineLearning](https://github.com/OskyRosky/MachineLearning/tree/main/0.%20Fundamentals)
+A generic case with everything required in an ML cycle. [Fundamentals](https://github.com/OskyRosky/MachineLearning/0.%20Fundamentals)
 
 ### 1. Supervised: Classification
 Techniques for categorizing items into a discrete set of categories.
