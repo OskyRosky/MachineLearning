@@ -823,14 +823,13 @@ Imagine an e-commerce platform that uses an ML model to personalize product reco
 
 ---------------------------------------------
 
-In this section you can find some applications that have been developed using Machine Learning.
-
 ![ml16](/resources/ml16.png)
 
+In this section you can find some applications that have been developed using Machine Learning.
 
 ### 0. The Fundamentals of ML
 
-A generic case with everything required in an ML cycle.
+A generic case with everything required in an ML cycle. [Fundamentals](https://github.com/OskyRosky/MachineLearning/tree/main/0.%20Fundamentals)
 
 ### 1. Supervised: Classification
 Techniques for categorizing items into a discrete set of categories.
